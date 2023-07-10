@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Current",
+        "exclude":"current"
+    },
+    {
+        "name":"Hourly",
+        "exclude":"hourly"
+    },
+    {
+        "name":"Daily",
+        "exclude":"daily"
+    }
+]
